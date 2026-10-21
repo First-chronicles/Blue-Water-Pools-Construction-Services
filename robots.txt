@@ -1,0 +1,6 @@
+# Blue Water Pools Construction & Services
+# All crawlers welcome, including AI search crawlers (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot).
+User-agent: *
+Allow: /
+
+Sitemap: https://www.REPLACE-WITH-DOMAIN.com/sitemap.xml
