@@ -213,7 +213,7 @@
         radius: t.main ? 13 : 9,
         color: "#ffffff",
         weight: t.main ? 4 : 3,
-        fillColor: t.main ? "#29a9e1" : "#1d5fcc",
+        fillColor: t.main ? "#40aade" : "#06386d",
         fillOpacity: 1
       }).addTo(map);
       m.bindTooltip(t.name, {

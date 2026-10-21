@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Blue Water Pools">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b82e6"/><stop offset="1" stop-color="#1446a8"/></linearGradient>
-    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9ad3ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
-  </defs>
-  <circle cx="32" cy="32" r="30" fill="url(#g)"/>
-  <circle cx="32" cy="32" r="28.5" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="1.5"/>
-  <text x="32" y="36" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="27" fill="#ffffff" letter-spacing="-1">BW</text>
-  <path d="M9 43c7-5 14-5 23 0s16 5 23 0" fill="none" stroke="url(#w)" stroke-width="3.2" stroke-linecap="round"/>
-  <path d="M13 49c6-3.5 12-3.5 19 0s13 3.5 19 0" fill="none" stroke="#9ad3ff" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#ffffff"/>
+  <g transform="translate(3 11) scale(.414)">
+    <path fill="#06386D" d="M2 76C50 90 112 72 138 3 108 58 54 80 2 76z"/>
+    <path fill="#40AADE" d="M14 95C62 98 112 78 136 36 108 74 62 92 14 95z"/>
+    <g transform="translate(0 -6)">
+      <path fill="#40AADE" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke" fill-rule="evenodd" d="M10 16h29c11 0 17 6 17 14 0 5-3 9-7 11 6 2 9 7 9 13 0 9-7 14-19 14H10zm14 11v10h11c3 0 5-2 5-5s-2-5-5-5zm0 20v11h12c4 0 6-2 6-5.5S40 47 36 47z"/>
+      <path fill="#06386D" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" paint-order="stroke" transform="translate(13 0) skewX(-12)" d="M50 16h15l6 32 8-32h12l8 32 6-32h15l-13 52h-14l-8-30-8 30h-14z"/>
+    </g>
+  </g>
 </svg>
